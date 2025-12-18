@@ -1,2 +1,6 @@
 #!/bin/bash
 pwd
+chmod +x 0-current_working_directory
+git add 0-current_working_directory
+git commit -m "Add script to print current working directory"
+git push
